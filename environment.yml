@@ -1,4 +1,4 @@
-name: env-ann
+name: handwriting recognition
 channels:
   - pytorch
   - conda-forge
