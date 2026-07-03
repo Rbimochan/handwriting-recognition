@@ -4,6 +4,7 @@
 
 # --- Currently ignored ---
 .DS_Store
+**/.ipynb_checkpoints/
 mnist-data.zip
 lab1/data/
 lab1/lab1_answer.ipynb
