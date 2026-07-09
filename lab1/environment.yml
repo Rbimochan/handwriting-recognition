@@ -1,0 +1,21 @@
+name: handwriting recognition
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch::pytorch>=2.0.0
+  - pytorch::torchvision>=0.16.0
+  - pytorch::torchaudio
+  - conda-forge::rasterio
+  - conda-forge::opencv
+  - matplotlib
+  - numpy
+  - pandas
+  - ipykernel
+  - jupyter
+  - notebook
+  - libjpeg-turbo
+  - libpng
+  - pillow
